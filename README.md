@@ -1,4 +1,4 @@
-# meu-portifolio
+# Meu Primeiro Projeto
 Primeiro site feito, sem resposividade, apenas o começo
 
 Retrabalhando (27/11/2023) nesse site com o intuito de acresentar uma pagina para reserva de voos, onde usarei o JavaScript para apresentar alertas na tela.
